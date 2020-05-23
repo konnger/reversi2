@@ -4,3 +4,4 @@
 # update 2020/05/02 (reversi2)
 # update 2020/05/10 (reversi1)
 # update 2020/05/16 (reversi2)
+# update 2020/05/23 (reversi1)
